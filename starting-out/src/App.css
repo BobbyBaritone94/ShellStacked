@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.monthDayGrid {
+  display:flex;
+  justify-content: space-evenly;
+
+}
+
+.monthDayGrid p{
+  padding: 4px;
+}
